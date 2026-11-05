@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Liquidación de Prestaciones Sociales LOTTT",
+  "description": "Sistema profesional de cálculo y auditoría de prestaciones sociales según la LOTTT de Venezuela con base de datos de expedientes, historial de liquidaciones y privacidad de datos sensibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
